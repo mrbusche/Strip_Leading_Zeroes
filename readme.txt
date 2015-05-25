@@ -16,11 +16,14 @@ This plugin allows you to have a permalink structure with single digit months an
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload stripleading.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Party
 
 == Changelog ==
+
+= 0.2 =
+Fixed invalid file name in readme
 
 = 0.1 =
 Initial version of the plugin
